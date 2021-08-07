@@ -10,10 +10,12 @@ My name is **Nickolai Beloguzov**. I'm a self-taught Russian software developer 
     - Have experience working with React, ExpressJS and Flask frameworks
         - Worked with React Framework for almost 2 years
         - Worked with vanilla React, but mostly worked with React+Webpack+Babel setup
+        - Currntly working with Vitejs
 - **Automation**:
     - Python (including Python 3)
         - Released [robust-json](https://github.com/NickolaiBeloguzov/robust-json) library for Python 3.8+
         - Released [jsonc-parser](https://github.com/NickolaiBeloguzov/jsonc-parser) library for Python 3.x
+        - Released [manokit](https://github.com/NickolaiBeloguzov/manokit) email-sending library for Python 3.8+
     - Golang
     - Node.js
 
